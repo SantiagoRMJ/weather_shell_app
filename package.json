@@ -1,0 +1,17 @@
+{
+  "name": "weather_shell_app",
+  "version": "1.0.0",
+  "description": ":V the name",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^9.0.0",
+    "inquirer": "^8.0.0"
+  }
+}
